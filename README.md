@@ -1,6 +1,6 @@
 # 2015-VIP-Badge
 
-Congratulations on aquiring a 2015 New Orleans Mini Maker Faire VIP Badge! You have chosen wisely. This badge contains a full blown Arduino, essentially making it a tiny computer than can be programmed to control endless creations limited only by your imagination!
+Congratulations on acquiring a 2015 New Orleans Mini Maker Faire VIP Badge! You have chosen wisely. This badge contains a full blown Arduino, essentially making it a tiny computer than can be programmed to control endless creations limited only by your imagination!
 
 Features:
 ­ 5v power supply! 
